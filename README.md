@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MomsaKoder
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Cyber Secuyrity.  I have learned, HTML and CSS, as well as Javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 Working on Software Development
+- 🌱  I have learned, HTML and CSS, as well as Javascript
 - 📫 Send me an email thru GitHub.  
 
 <!---
